@@ -1,0 +1,6 @@
+
+Datasets: VOC07
+without relation
+GPU: 3 Bs: 15 lr:0.01 le_decay:6 best_epoch:8 mAP: 69.10
+with relation feature dim=1024
+GPU: 3 Bs: 15 lr:0.01 le_decay:8 max_epoch:10 mAP:63.34
